@@ -2,6 +2,5 @@
 
 The Snake game, created using JavaScript, and The HTML5 canvas.
 
-Download the starter template, and follow the tutorial on youtube step by step.
-
-Tutorial link : https://youtu.be/9TcU2C1AACw
+To run:
+Just double click on the index.html to get going. Use the arrow keys to control your snake. Any required changes can be made in snake.js file.
